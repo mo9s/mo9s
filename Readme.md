@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Mohammed Hasan from The Netherlands<br><br>- 🔭 I’m a Software Developer Student at Scalda<br>- 📚 I'm currently learning Node.js & React
+<p align="left">I'm Mohammed Hasan from The Netherlands<br><br>- 🔭 I’m a Software Developer Student at Scalda<br>- 📚 I'm currently learning Node.js & PHP
 
 ###
 
